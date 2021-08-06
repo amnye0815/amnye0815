@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amnye0815
 - 👀 I’m interested in the outdoors, textile/multimedia art, exploring, and in a constant state of learning!
-- 🌱 I just finished Web Fundamentals with Coding Dojo and am now learning Python.
+- 🌱 I just finished Web Fundamentals and Python with Coding Dojo and am now learning MERN.
 - 💞️ I’m looking to collaborate on whatever and with whomever 
 - 📫 How to reach me amnye0815@gmail.com
 
